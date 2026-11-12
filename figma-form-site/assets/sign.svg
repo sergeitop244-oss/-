@@ -1,0 +1,73 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="560" height="480" viewBox="0 0 560 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#208;&#152;&#208;&#187;&#208;&#187;&#209;&#142;&#209;&#129;&#209;&#130;&#209;&#128;&#208;&#176;&#209;&#134;&#208;&#184;&#209;&#143; &#194;&#183; &#208;&#186;&#208;&#190;&#208;&#189;&#209;&#129;&#209;&#130;&#209;&#128;&#209;&#131;&#208;&#186;&#209;&#134;&#208;&#184;&#209;&#143; &#208;&#178;&#209;&#139;&#208;&#178;&#208;&#181;&#209;&#129;&#208;&#186;&#208;&#184;" clip-path="url(#clip0_0_4)">
+<path id="Vector" d="M560 0H0V480H560V0Z" fill="#22261E"/>
+<g id="Group">
+<g id="Vector_2">
+<path d="M0 0V480ZM0 0H560Z" fill="black"/>
+<path d="M0 480V0H560" stroke="#42483A"/>
+</g>
+<g id="Vector_3">
+<path d="M48 0V480ZM0 48H560Z" fill="black"/>
+<path d="M48 0V480M0 48H560" stroke="#42483A"/>
+</g>
+<g id="Vector_4">
+<path d="M96 0V480ZM0 96H560Z" fill="black"/>
+<path d="M96 0V480M0 96H560" stroke="#42483A"/>
+</g>
+<g id="Vector_5">
+<path d="M144 0V480ZM0 144H560Z" fill="black"/>
+<path d="M144 0V480M0 144H560" stroke="#42483A"/>
+</g>
+<g id="Vector_6">
+<path d="M192 0V480ZM0 192H560Z" fill="black"/>
+<path d="M192 0V480M0 192H560" stroke="#42483A"/>
+</g>
+<g id="Vector_7">
+<path d="M240 0V480ZM0 240H560Z" fill="black"/>
+<path d="M240 0V480M0 240H560" stroke="#42483A"/>
+</g>
+<g id="Vector_8">
+<path d="M288 0V480ZM0 288H560Z" fill="black"/>
+<path d="M288 0V480M0 288H560" stroke="#42483A"/>
+</g>
+<g id="Vector_9">
+<path d="M336 0V480ZM0 336H560Z" fill="black"/>
+<path d="M336 0V480M0 336H560" stroke="#42483A"/>
+</g>
+<g id="Vector_10">
+<path d="M384 0V480ZM0 384H560Z" fill="black"/>
+<path d="M384 0V480M0 384H560" stroke="#42483A"/>
+</g>
+<g id="Vector_11">
+<path d="M432 0V480ZM0 432H560Z" fill="black"/>
+<path d="M432 0V480M0 432H560" stroke="#42483A"/>
+</g>
+<g id="Vector_12">
+<path d="M480 0V480ZM0 480H560Z" fill="black"/>
+<path d="M480 0V480M0 480H560" stroke="#42483A"/>
+</g>
+<g id="Vector_13">
+<path d="M528 0V480ZM0 528H560Z" fill="black"/>
+<path d="M528 0V480M0 528H560" stroke="#42483A"/>
+</g>
+</g>
+<path id="Vector_14" d="M280 400C368.366 400 440 328.366 440 240C440 151.634 368.366 80 280 80C191.634 80 120 151.634 120 240C120 328.366 191.634 400 280 400Z" stroke="#69744E"/>
+<g id="Vector_15">
+<path d="M280 28V452ZM45 240H515Z" fill="black"/>
+<path d="M280 28V452M45 240H515" stroke="#69744E"/>
+</g>
+<g id="Group_2">
+<path id="Vector_16" d="M67 176L94 147.724L508 82.1525V260.152L480 287.587L67 353V176Z" fill="#080B07" stroke="#A2B165" stroke-width="2.01243"/>
+<path id="Vector_17" d="M481 110.429L68 175.842V351.842L481 286.429V110.429Z" fill="#D9FA4D"/>
+<path id="Vector_18" d="M136 253.071L129.191 248.278L123.59 255.822L129.966 260.712L136 253.071ZM372 215.693L378.285 221.14L384.89 213.489L378.126 208.124L372 215.693ZM189 181.677L182.191 176.883L129.191 248.278L136 253.071L142.809 257.865L195.809 186.471L189 181.677ZM136 253.071L129.966 260.712L196.966 312.1L203 304.46L209.034 296.819L142.034 245.431L136 253.071ZM176 246.736V255.792L366 225.699V216.643V207.587L176 237.68V246.736ZM310 166.513L303.874 174.082L365.874 223.262L372 215.693L378.126 208.124L316.126 158.944L310 166.513ZM372 215.693L365.715 210.245L303.715 282.065L310 287.513L316.285 292.96L378.285 221.14L372 215.693Z" fill="#171916"/>
+<path id="Vector_19" d="M421 220.932C428.732 219.707 435 212.447 435 204.715C435 196.983 428.732 191.707 421 192.932C413.268 194.157 407 201.417 407 209.149C407 216.881 413.268 222.157 421 220.932Z" fill="#171916"/>
+</g>
+<path id="Vector_20" d="M28 43V26H45M515 26H532V43M28 437V454H45M532 437V454H515" stroke="#D9FA4D" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_0_4">
+<rect width="560" height="480" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
